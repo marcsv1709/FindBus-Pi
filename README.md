@@ -20,7 +20,7 @@ Siga os passos abaixo para configurar o ambiente e rodar o projeto localmente:
    Clone o repositório para sua máquina local:
    
    ```bash
-   git clone https://github.com/usuario/findbus.git
+   git clone https://github.com/marcsv1709/FindBus-Pi.git
 
 2. **Instale as Dependências**
     ```bash
