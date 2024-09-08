@@ -2,18 +2,14 @@
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
-
 1. **SQLite**
-   - Faça o download da versão do SQLite [aqui](https://www.sqlite.org/2024/sqlite-tools-win-x64-3460100.zip).
-   - Adicione o SQLite ao seu `PATH` para poder utilizá-lo via linha de comando.
+   - Download SQLite [aqui](https://www.sqlite.org/2024/sqlite-tools-win-x64-3460100.zip).
+   - Adicione o SQLite no `PATH`.
 
 2. **DB Browser for SQLite** - Para visualização do banco de dados SQLite.
    - Baixe o DB Browser [aqui](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.0-win64.msi).
 
 ## Instalação do Projeto
-
-Siga os passos abaixo para configurar o ambiente e rodar o projeto localmente:
 
 1. **Clone o Repositório**
 
